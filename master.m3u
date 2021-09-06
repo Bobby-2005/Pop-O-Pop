@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,POP
+http://www.filmon.com/vr-streams/320.low/playlist.m3u8
+#EXTINF:-1,Tiny POP
+http://www.filmon.com/vr-streams/318.low/playlist.m3u8
+#EXTINF:-1,POP MAX
+http://www.filmon.com/vr-streams/316.low/playlist.m3u8
