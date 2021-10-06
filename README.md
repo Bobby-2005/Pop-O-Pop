@@ -1,4 +1,4 @@
-# POP-O-POP Stream List
+# POP TV Stream List
 POP
 Tiny POP
 POP MAX
